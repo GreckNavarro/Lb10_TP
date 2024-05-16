@@ -1,6 +1,6 @@
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "ParticleSO", menuName = "Flyweight/ParticleSO")]
+[CreateAssetMenu(fileName = "ParticleSO", menuName = "ParticleSO/ParticleSO")]
 public class ParticleSO : ScriptableObject
 {
     public Color color;
